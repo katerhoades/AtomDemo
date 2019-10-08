@@ -102,5 +102,5 @@ ___
 #### Branching and collaborating with others using GitHub Desktop.
 
 * [GitHub Desktop Tutorials (from GitHub)](https://services.github.com/on-demand/github-desktop/)
-  * Specifically, look at how to [create local branches](https://services.github.com/on-demand/github-desktop/create-branches-github-desktop) of your repository, and make a [pull request](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop)
+  
 * [Another tutorial](https://programminghistorian.org/lessons/getting-started-with-github-desktop) for collaborating with GitHub desktop
