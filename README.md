@@ -2,11 +2,6 @@
 #  Using GitHub Desktop and Atom
 
 
-<br>
-
-
-
-#  Installing Atom and GitHub Desktop
 
 #### 1. [Install GitHub Desktop](https://desktop.github.com/) 
 
