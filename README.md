@@ -73,6 +73,7 @@ Once you make changes to your repository, the changes will appear in GitHub Desk
 
 <br>
 #### Back on the GitHub Website....
+
 ![11](assets/GitHubDesktop-and-Atom_11.png)
 
 ___
