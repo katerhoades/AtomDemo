@@ -12,12 +12,7 @@
 2. [Editing in Atom and pushing to GitHub using Desktop](#-editing-locally-in-atom-and-pushing-to-github-using-github-desktop)
 3. [More Tutorials](#-more-tutorials)
 
-<br />
-1) Tutorial for setting up GitHub & Atom. This will allow you to edit your repository *locally*, then push it to the remote (online) repository on GitHub.
 
-2) Links to more tutorials to branching and collaborating with others using GitHub Desktop.
-
----
 <br>
 
 
