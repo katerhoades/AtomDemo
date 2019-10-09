@@ -2,17 +2,6 @@
 #  Using GitHub Desktop and Atom
 
 
-
-<br />
-
-#### On this page:
-
-1. [Installing Atom and GitHub Desktop](#-installing-atom-and-github-desktop)
-2. [Linking a GitHub Repository to your local hard drive](#-linking-a-github-repository-to-your-local-hard-drive)
-2. [Editing in Atom and pushing to GitHub using Desktop](#-editing-locally-in-atom-and-pushing-to-github-using-github-desktop)
-3. [More Tutorials](#-more-tutorials)
-
-
 <br>
 
 
