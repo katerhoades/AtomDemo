@@ -24,7 +24,7 @@
 
 # ▼△▼△▼ Installing Atom and GitHub Desktop
 
-#### 1. [Install GitHub Desktop](https://desktop.github.com/)
+#### 1. [Install GitHub Desktop](https://desktop.github.com/) (Click [here](https://atom.en.uptodown.com/mac) for Mac version)
 
 After [installing](https://desktop.github.com/) the app, you will have to log into your GitHub account in the GitHub Desktop App --> [tutorial here](https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github/)
 <br>
