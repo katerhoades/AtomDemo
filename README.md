@@ -83,7 +83,7 @@ Once you make changes to your repository, the changes will appear in GitHub Desk
 ![8](assets/GitHubDesktop-and-Atom_08.png)
 <br>
 #### Reminder: Don't forget to save your files!
-<br>
+
 ![9](assets/GitHubDesktop-and-Atom_09.png)
 
 #### Note: You must type something in the "Summary" field for the commit (bottom left) before you can commit.
