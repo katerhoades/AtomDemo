@@ -24,13 +24,13 @@
 
 # ▼△▼△▼ Installing Atom and GitHub Desktop
 
-#### 1. [Install GitHub Desktop](https://desktop.github.com/) (Click [here](https://atom.en.uptodown.com/mac) for Mac version)
+#### 1. [Install GitHub Desktop](https://desktop.github.com/) 
 
 After [installing](https://desktop.github.com/) the app, you will have to log into your GitHub account in the GitHub Desktop App --> [tutorial here](https://help.github.com/desktop/guides/getting-started-with-github-desktop/authenticating-to-github/)
 <br>
 <br>
 
-#### 2. [Install Atom](https://atom.io/)
+#### 2. [Install Atom](https://atom.io/) (Click [here](https://atom.en.uptodown.com/mac) for Mac version)
 
 Atom is a text editor: a program where you edit your code.
 
