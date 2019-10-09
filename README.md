@@ -2,7 +2,7 @@
 #  Using GitHub Desktop and Atom
 
 
- ◇─◇──◇────◇────◇────◇────◇────◇─◇─◇
+
 <br />
 
 #### On this page:
@@ -22,7 +22,7 @@
 
 
 
-# ▼△▼△▼ Installing Atom and GitHub Desktop
+#  Installing Atom and GitHub Desktop
 
 #### 1. [Install GitHub Desktop](https://desktop.github.com/) 
 
@@ -47,7 +47,7 @@ Once you install Atom, you might want to modify it by adding "packages", add-ons
 
 
 
-# ▼△▼△▼ Linking a GitHub Repository to your local hard drive
+#  Linking a GitHub Repository to your local hard drive
 
 Okay, now let's get into how you *really should be using* GitHub.
 
@@ -71,7 +71,7 @@ Once you install Atom and GitHub Desktop, follow these steps to "clone" your rep
 
 <br>
 <br>
-# ▼△▼△▼ Editing in Atom and pushing to GitHub using GitHub Desktop
+#  Editing in Atom and pushing to GitHub using GitHub Desktop
 
 Once you make changes to your repository, the changes will appear in GitHub Desktop and you can "commit" and "push" to sync it up to GitHub (the website).
 
@@ -99,7 +99,7 @@ Once you make changes to your repository, the changes will appear in GitHub Desk
 ___
 
 
-# ▼△▼△▼ More Tutorials
+#  More Tutorials
 
 #### Branching and collaborating with others using GitHub Desktop.
 
